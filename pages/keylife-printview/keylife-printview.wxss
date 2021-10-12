@@ -1,0 +1,51 @@
+/* pages/print/keylife-printview.wxss */
+.content{
+  height: 100%;
+  padding: 0.5rem;
+}
+.cur-device-title{
+  font-size: 1.2rem;
+}
+.btns{
+  display: flex;
+  justify-content: space-around;
+}
+.btns button{
+  width: 10rem;
+  padding: 0rem;
+  font-size: 1rem;
+  line-height: 2rem;
+  color: white;
+  background-color: steelblue;
+}
+.button {
+  margin:1rem;
+}
+.devices_summary {
+  margin-top: 1rem;
+  font-size: 16px;
+}
+.device_list {
+  height: 14rem;
+  margin: 0.5rem;
+  border: 1px solid #EEE;
+  border-radius: 0.5rem;
+  width: auto;
+}
+.device_item {
+  border-bottom: 1px solid #EEE;
+  padding: 10px;
+  color: #666;
+}
+.device_item_hover {
+  background-color: rgba(0, 0, 0, .1);
+}
+.search{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+}
+.search text{
+  margin-left: 0.5rem;
+}

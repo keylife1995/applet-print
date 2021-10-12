@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "标签打印测试",
+  "usingComponents": {
+    "keylife-printview": "/pages/keylife-printview/keylife-printview"
+  }
+}

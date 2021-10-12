@@ -1,0 +1,4 @@
+<!--pages/test/test.wxml-->
+<view style="text-align: center;margin: 1rem auto;font-size: 2rem;">标签打印机测试</view>
+
+<keylife-printview bindclose="bindclose" orderData="{{orders}}"></keylife-printview>
